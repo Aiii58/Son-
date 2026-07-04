@@ -1,0 +1,12 @@
+{
+  "name": "Kan Kardeşim",
+  "short_name": "Kan Kardeşim",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1E2733",
+  "theme_color": "#1E2733",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
